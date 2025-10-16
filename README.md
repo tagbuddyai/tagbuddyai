@@ -10,3 +10,4 @@ When your Instagram or Facebook account is tagged in a post, TagBuddyAI automati
 - **Replies automatically**: Comments or DMs the tagger with an explorer link and the on‑chain contract address.
 
 # tagbuddyai
+# tagbuddyai
