@@ -1,5 +1,7 @@
 ### TagBuddyAI — Auto-meme-coin from IG/FB tags
 
+<img width="1024" height="1024" alt="TagBuddyLogo" src="https://github.com/user-attachments/assets/a293b797-3ff2-4e78-90b4-967be8eb2c82" />
+
 When your Instagram or Facebook account is tagged in a post, TagBuddyAI automatically creates a Pump.fun token on Solana, using the post/profile context to propose name and description, then replies back to the tagger with the Pump.fun link and the contract (mint) address.
 
 ### What it does
